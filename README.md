@@ -1,15 +1,9 @@
 <h1 align="center">Привет 👋, меня зовут Александра</h1>
 
-- 👀 I’m interested in ...
-- 📫 How to reach me ...
-- 
 
-<h2>QA Engineer</h2>
+<h2 align="center">QA Engineer</h2>
 
-
-- 🌱 I’m working now in TEDU (QA)
-- 💞️ I’m currently learning QA Automation
-
+<h3 align="center">Говорят, у меня хороший нюх 🐶 на баги</h3><br>
 
 
 <h2> <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
