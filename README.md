@@ -16,7 +16,10 @@ Technology stack
 Связаться со мной можно:
 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/aleks_barsss">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://shlippenbah@mail.ru">
+    <img src="https://img.shields.io/badge/shlippenbah@mail.ru-orange?style=for-the-badge&logoColor=white" alt="email Badge"/>
   </a>
   </div>
