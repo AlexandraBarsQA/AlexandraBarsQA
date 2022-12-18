@@ -6,11 +6,14 @@
 
 <h2>QA Engineer</h2>
 
+
 🌱 I’m working now in TEDU (QA)
 💞️ I’m currently learning QA Automation
 
 
-<h2>Technology stack</h2>
+
+<h2> <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
+ Technology stack</h2>
 
 <div id="logos">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="max-width: 100%;">
@@ -20,10 +23,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="max-width: 100%;">
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/>
-
-
- </div>
-
+</div>
+<br>
 
 <h2>Связаться со мной можно:</h2>
 
@@ -31,7 +32,7 @@
   <a href="https://t.me/aleks_barsss">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://shlippenbah@mail.ru">
+  <a href="mailto:shlippenbah@mail.ru">
     <img src="https://img.shields.io/badge/shlippenbah@mail.ru-orange?style=for-the-badge&logoColor=white" alt="email Badge"/>
   </a>
- </div>
+ </div> 
