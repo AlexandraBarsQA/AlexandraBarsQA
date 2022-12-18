@@ -7,8 +7,8 @@
 <h2>QA Engineer</h2>
 
 
-🌱 I’m working now in TEDU (QA)
-💞️ I’m currently learning QA Automation
+- 🌱 I’m working now in TEDU (QA)
+- 💞️ I’m currently learning QA Automation
 
 
 
@@ -21,7 +21,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" style="max-width: 100%;"> 
  <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="html5" width="50" height="50" style="max-width: 100%;">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="max-width: 100%;">
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/>
 </div>
 <br>
