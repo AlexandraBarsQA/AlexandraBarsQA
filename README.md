@@ -3,7 +3,9 @@
 
 <h2 align="center">QA Engineer</h2>
 
-<h3 align="center">Говорят, у меня хороший нюх 🐶 на баги</h3><br>
+<h3 align="center">Говорят, у меня хороший нюх 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50">
+🐶 на баги</h3><br>
 
 
 <h2> <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
@@ -18,8 +20,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50">
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50">
  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50">
- <img src="https://camo.githubusercontent.com/752dabc7ca2275ee7a079fa24433ff2c6307eb4cddc541dfed60749f62772b41/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6c6f676f2e737667" alt="Apache JMeter logo" data-canonical-src="https://jmeter.apache.org/images/logo.svg" width="auto" height="45">
- 
+ <img src="https://camo.githubusercontent.com/752dabc7ca2275ee7a079fa24433ff2c6307eb4cddc541dfed60749f62772b41/68747470733a2f2f6a6d657465722e6170616368652e6f72672f696d616765732f6c6f676f2e737667" alt="Apache JMeter logo" data-canonical-src="https://jmeter.apache.org/images/logo.svg" width="auto" height="45"> 
 </div>
 <br>
 
