@@ -4,8 +4,8 @@
 <h2 align="center">QA Engineer</h2>
 
 <h3 align="center">Говорят, у меня хороший нюх 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50">
-🐶 на баги</h3><br>
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f436.png" width="30" height="auto">
+на баги</h3><br>
 
 
 <h2> <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
