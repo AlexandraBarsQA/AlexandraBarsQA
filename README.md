@@ -1,11 +1,15 @@
 <h1 align="center">Привет 👋, меня зовут Александра</h1>
 
 
+<h2 align="left">QA Engineer</h2>
+
+<!--
 <h2 align="center">QA Engineer</h2>
 
 <h3 align="center">Говорят, у меня хороший нюх 
   <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f436.png" width="30" height="auto">
 на баги!</h3><br>
+-->
 
 
 <h2> <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
