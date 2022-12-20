@@ -11,6 +11,11 @@
 на баги!</h3><br>
 -->
 
+<!--
+QA Engineer, любящая отлично поработать 🖥️, вкусно поесть 🍬, быстро побегать 🥇 и поиграть на ударных 🥁
+-->
+
+
 
 <h2> <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>
  Technology stack</h2>
